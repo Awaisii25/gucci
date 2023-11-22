@@ -76,12 +76,10 @@ ul li:hover{
     color: black;
     width: 50%;
     margin-left: 41rem;
-    z-index: 8888;
+    display: none;
 }
 .sidemanu{
-    opacity: 1;
-    
-    display: none;
+    display: block;
 }
 i{
     cursor: pointer;
